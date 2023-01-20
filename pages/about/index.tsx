@@ -68,42 +68,42 @@ const About = () => {
             <TeamCard
               imageSrc="/images/team-1.webp"
               job="Founder"
-              name="Albert Flores"
+              name="Truff Steward"
             />
           </div>
           <div data-aos="fade-up">
             <TeamCard
               imageSrc="/images/team-2.webp"
               job="Chief Technology Officer"
-              name="Devon Lane"
+              name="Devon Synder"
             />
           </div>
           <div data-aos="fade-up">
             <TeamCard
               imageSrc="/images/team-3.webp"
               job="UI Designer"
-              name="Darrell Steward"
+              name="Rina Clores"
             />
           </div>
           <div data-aos="fade-up">
             <TeamCard
               imageSrc="/images/team-4.webp"
               job="Software Engineer"
-              name="Marvin McKinney"
+              name="Josh Black"
             />
           </div>
           <div data-aos="fade-up">
             <TeamCard
               imageSrc="/images/team-5.webp"
               job="System Analyst"
-              name="Floyd Miles"
+              name="Floyd Ishaan"
             />
           </div>
           <div data-aos="fade-up">
             <TeamCard
               imageSrc="/images/team-6.webp"
               job="Project Manager"
-              name="Annette Black"
+              name="Marvin Zack"
             />
           </div>
         </div>
